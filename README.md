@@ -8,11 +8,11 @@
 
 ---
 
-**dsa-study** is an algorithm study organization led by Kim Dong-ju (Hepheir).
+**dsa-study** is an algorithm study organization led by Kim Dong-Joo (Hepheir).
 
 **dsa** stands for **Data Structure and Algorithm**.
 
 ## 스터디 리더 (Study Leader)
 
-**김동주 (Kim Dong-ju)**
+**김동주 (Kim Dong-Joo)**
 - 백준(BOJ) 사용자명: [Hepheir](https://www.acmicpc.net/user/Hepheir)
