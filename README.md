@@ -14,6 +14,5 @@
 
 ## 스터디 리더 (Study Leader)
 
-- **김동주 (Kim Dong-ju)**
-- 백준 사용자명: [Hepheir](https://www.acmicpc.net/user/Hepheir)
-- BOJ Username: [Hepheir](https://www.acmicpc.net/user/Hepheir)
+**김동주 (Kim Dong-ju)**
+- 백준(BOJ) 사용자명: [Hepheir](https://www.acmicpc.net/user/Hepheir)
